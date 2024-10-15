@@ -96,7 +96,7 @@ docker rm nginx-site
 
 ## 9. Resultados esperados
 
-Al finalizar la práctica, deberías haber logrado levantar un servidor web Nginx dentro de un contenedor de Docker y servir una página HTML simple. El resultado esperado es ver el contenido HTML cuando accedes a la URL proporcionada por Docker Playground.
+Al finalizar la práctica, debería lograr levantar un servidor web Nginx dentro de un contenedor de Docker y servir una página HTML simple. El resultado esperado es ver el contenido HTML cuando se accede a la URL proporcionada por Docker Playground.
 
 ![Captura de pantalla 2024-10-14 091439](https://github.com/user-attachments/assets/ab93346b-a6e5-4280-bf74-404cf122f53e)
 
